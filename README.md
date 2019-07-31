@@ -1,6 +1,7 @@
 # Shadowsocks 帮助导航
 
 > Shadowsocks终极帮助导航，希望对你有所帮助！
+> ss/ssr 官网账号：[世界那么大我们去看看](https://feiji-cloud.github.io)
 
 ## Shadowsocks 简介 ##
 
